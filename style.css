@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    background-color: black;
+    
+}
+textarea{
+    width: 32%;
+    /* float: top; */
+    min-height: 250px;
+    overflow: hidden;
+    margin: auto;
+    display: inline-block;
+    background: #373738;
+    color: white;
+    outline: none;
+    font-family: Courier,sans-serif;
+    font-size: 18px;
+    
+}
+h1{
+    color:white
+}
+iframe{
+    background: white;
+    bottom: 0;
+    position: relative;
+    width: 100%;
+    height: 35em;
+}
